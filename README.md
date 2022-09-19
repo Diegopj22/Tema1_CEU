@@ -1,12 +1,12 @@
 # Tema1_CEU
-##Ejercicio 1
+## Ejercicio 1
 Al re alizar una consulta en un registro hemos obtenido una cadena de texto corrupta al revés. Al parecer contiene el nombre de un alumno y la nota de un exámen. ¿Cómo podríamos formatear la cadena y conseguir una estructura como la siguiente?
 Nombre Apellido ha sacado un Nota de nota.
 Ayuda
 Para voltear una cadena rápidamente utilizando slicing podemos utilizar un tercer índice -1: cadena[::-1]
 cadena = "zeréP nauJ,01"
 
-##Ejercicio 2
+## Ejercicio 2
 Realiza un programa que cumpla el siguiente algoritmo utilizando siempre que sea posible operadores en asignación:
 Guarda en una variable numero_magico el valor 12345679 (sin el 8)
 Lee por pantalla otro numero_usuario, especifica que sea entre 1 y 9
