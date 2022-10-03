@@ -6,7 +6,7 @@ def agregar_una_vez(lista,el):
            lista.append(el)
           elif el in  lista:
             break            
-            print("Imposible añadir elementos duplicados")
+            print("Imposible añadir elementos duplicadosfdsjkfjls")
             print(lista)
     
        return lista
